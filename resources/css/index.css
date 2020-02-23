@@ -1,0 +1,26 @@
+nav,
+h1 {
+     background-image: url("../pattern.jpeg");
+     font-family: Helvetica;
+     font-size: 100px;
+     font-weight: bold;
+     color: khaki;
+     text-align: center;
+}
+
+.first_headline,
+.second_headline,
+.third_headline {
+     background-color: mediumspringgreen;
+     color: white;
+     font-family: helvetica;
+     font-size: 32px;
+     font-weight: bold;
+}
+
+.second_headline {
+     background: lightcoral !important;
+}
+.third_headline {
+     background: skyblue !important;
+}
